@@ -54,4 +54,4 @@ graph TD
 **Thierry NDJEL DAN**
 Full-Stack GIS & Data Engineer
 
-[LinkedIn](https://www.linkedin.com/in/VOTRE-PROFIL) · [Portfolio](https://VOTRE-PORTFOLIO)
+[LinkedIn](https://www.linkedin.com/in/ndjel-dan-8682ba21a) · [Portfolio](https://ndjeldan.github.io)
